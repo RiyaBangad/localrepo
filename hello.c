@@ -6,3 +6,4 @@ int main()
     printf("\n its interesting to learn new skills");
     printf("\n I am first engineering student); 
 }
+
