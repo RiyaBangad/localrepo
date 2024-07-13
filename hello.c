@@ -5,6 +5,6 @@ int main()
     printf("\n I am studying about Git and Github");
     printf("\n its interesting to learn new skills");
     printf("\n I am first engineering student");
-    printf("\n i am very keen to learn and explore");
+    printf("\n I am very keen to learn and explore");
 }
 
